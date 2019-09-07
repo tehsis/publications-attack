@@ -1,4 +1,4 @@
-# [Publications Attack(https://publicalagame.now.sh)
+# [Publications Attack](https://publicalagame.now.sh)
 
 ## Desription
 
