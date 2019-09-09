@@ -1,5 +1,7 @@
 # [Publications Attack](https://publicalagame.now.sh)
 
+This game was created using publica.la mission in mind. The game is non-profit and its main intention is to be a playground for Unity.
+
 ## Desription
 
 Find all the publications spreaded around the world and return them to their creators!
